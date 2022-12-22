@@ -1,6 +1,7 @@
 # shame-on-html-and-css
 
-https://spaces.w3schools.com/space/shameuhu
+
+https://shameuhu.w3spaces.com
 
 
 Simple and short version of a projecto.
